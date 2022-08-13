@@ -1,0 +1,2 @@
+@echo OFF
+ECHO %TIME%
