@@ -66,12 +66,8 @@ Dalam proses pengembangan software, terdapat beberapa model SDLC yang populer di
 1. Waterfall
 Waterfall adalah salah satu model SDLC tertua. Kerangka kerja ini menekankan untuk terus maju dari satu tahap ke tahap berikutnya. Jadi, Anda harus benar-benar menyelesaikan suatu tahap secara sepenuhnya sebelum melanjutkan ke tahap berikutnya.
 
-Kerangka kerja ini cocok untuk proyek kecil dengan hasil akhir yang mudah ditentukan dari awal. Namun untuk pengerjaan proyek besar, sebaiknya hindari penggunaan Waterfall karena kerangka kerja ini tidak cocok untuk proyek yang kompleks serta tidak fleksibel terhadap perubahan.
-
 2. Agile
 Agile adalah kerangka kerja untuk pengembangan software dengan proses yang ramping namun dapat menghasilkan produk akhir berkualitas tinggi. Kerangka kerja ini akan menggunakan urutan kerja inkremental (berkembang sedikit demi sedikit secara teratur) dan iteratif (berulang). Model SDLC ini membutuhkan tim pengembang yang dapat beradaptasi dengan cepat terhadap perubahan dan cocok untuk pengembangan proyek berskala besar.
-
-Beberapa kelebihan dari kerangka kerja ini seperti memungkinkan pengembangan dan pengujian yang cepat, masalah atau bug dapat segera terdeteksi dan diperbaiki, serta mengakomodasi perubahan atau peningkatan produk dalam proses pengembangan.
 
 3. DevOps
 DevOps merupakan gabungan dari dua kata yaitu Development dan Operations. Kerangka kerja ini adalah kombinasi dari culture, praktik, serta tools untuk meningkatkan kemampuan perusahaan dalam proses delivery produk dengan kecepatan tinggi. 
@@ -106,27 +102,27 @@ Langkah-langkah tersebut adalah:
 - Deployment
 - Pemeliharaan perangkat lunak</p>
 <p>Agile software development principles</p>
-<p><li>- Keputusan pelanggan dengan pengiriman perangkat lunak yang berharga secara dini dan berkelanjutan.
-- Menyambut perubahan persyaratan, bahkan dalam pengembangan yang terlambat.
-- Berikan perangkat lunak yang berfungsi sesering mungkin (berminggu-minggu, bukan berbulan-bulan).
-- Kerja sama yang erat dan setiap hari antara pelaku bisnis dan pengembang.
-- Proyek dibangun di sekitar individu yang termotivasi, yang harus dipercaya.
-- Percakapan tatap muka adalah bentuk komunikasi terbaik (co-location).
-- Perangkat lunak yang berfungsi adalah ukuran utama kemajuan.
-- Pembangunan berkelanjutan, mampu mempertahankan kecepatan yang konstan.
-- Perhatian terus menerus terhadap keunggulan teknis dan desain yang baik.
-- Kesederhanaan seni memaksimalkan jumlah pekerjaan yang tidak dilakukan—sangat penting.
-- Arsitektur, persyaratan, dan desain terbaik muncul dari tim yang mengatur diri sendiri.
-- Secara teratur, tim merefleksikan bagaimana menjadi lebih efektif, dan menyesuaikannya.</li></p>
+<p><li>Keputusan pelanggan dengan pengiriman perangkat lunak yang berharga secara dini dan berkelanjutan.</li>
+<li>Menyambut perubahan persyaratan, bahkan dalam pengembangan yang terlambat.</li>
+<li>Berikan perangkat lunak yang berfungsi sesering mungkin (berminggu-minggu, bukan berbulan-bulan).</li>
+<li>Kerja sama yang erat dan setiap hari antara pelaku bisnis dan pengembang.</li>
+<li>Proyek dibangun di sekitar individu yang termotivasi, yang harus dipercaya.</li>
+<li>Percakapan tatap muka adalah bentuk komunikasi terbaik (co-location).</li>
+<li>Perangkat lunak yang berfungsi adalah ukuran utama kemajuan.</li>
+<li>Pembangunan berkelanjutan, mampu mempertahankan kecepatan yang konstan.</li>
+<li>Perhatian terus menerus terhadap keunggulan teknis dan desain yang baik.</li>
+<li>Kesederhanaan seni memaksimalkan jumlah pekerjaan yang tidak dilakukan—sangat penting.</li>
+<li>Arsitektur, persyaratan, dan desain terbaik muncul dari tim yang mengatur diri sendiri.</li>
+<li>Secara teratur, tim merefleksikan bagaimana menjadi lebih efektif, dan menyesuaikannya.</li></p>
 
 
 <p>SCRUM</p>
 <p>Scrum adalah kerangka kerja untuk manajemen proyek, dengan penekanan awal pada pengembangan perangkat lunak , meskipun telah digunakan di bidang lain termasuk penelitian, penjualan, pemasaran, dan teknologi canggih .</p>
 <p>Scrum Methodology</p>
 <p>Scrum adalah metode agile yang berfokus pada pengembangan software kompleks. Pengerjaan software pada Scrum dibagi menjadi beberapa proses kecil yang disebut dengan sprints. Dalam satu sprint, biasanya Anda akan berfokus menyelesaikan satu fitur tertentu.
-<li>- Product Owner > bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.
-- Scrum Master > bertugas memfasilitasi dan memastikan bahwa tim sudah paham dengan proses Scrum. Selain itu, ia juga akan berkoordinasi dengan Product Owner agar bisa memaksimalkan hasil produk dan ROI (Return of Investment).
-- Development Team > sekumpulan orang yang memiliki skill tertentu untuk menjalankan project. Misalnya, programmer, designer, writer, dan sebagainya.</li></p>
+<li>- Product Owner - bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.</li>
+<li> Scrum Master - bertugas memfasilitasi dan memastikan bahwa tim sudah paham dengan proses Scrum. Selain itu, ia juga akan berkoordinasi dengan Product Owner agar bisa memaksimalkan hasil produk dan ROI (Return of Investment).</li>
+<li> Development Team - sekumpulan orang yang memiliki skill tertentu untuk menjalankan project. Misalnya, programmer, designer, writer, dan sebagainya.</li></p>
 
 <p>Scrum values</p>
 <p>adalah pendekatan empiris yang didorong oleh umpan balik yang, seperti semua kontrol proses empiris, didukung oleh tiga pilar transparansi, inspeksi, dan adaptasi. Semua pekerjaan dalam kerangka kerja scrum harus terlihat oleh mereka yang bertanggung jawab atas hasil: proses, alur kerja, kemajuan, dll. Untuk membuat hal-hal ini terlihat, tim scrum perlu sering memeriksa produk yang sedang dikembangkan dan seberapa baik tim tersebut bekerja. Dengan inspeksi yang sering, tim dapat melihat ketika pekerjaan mereka menyimpang di luar batas yang dapat diterima dan menyesuaikan proses mereka atau produk yang sedang dikembangkan.
@@ -138,8 +134,8 @@ Ketiga pilar ini membutuhkan kepercayaan dan keterbukaan dalam tim, yang memungk
 <p>Extreme Programming (XP) adalah metode agile yang lebih berfokus ke aspek teknis pengembangan. Tujuannya, agar software yang dihasilkan mempunyai kualitas tinggi, sehingga kemampuan tim pengembangnya juga meningkat drastis. 
 Itulah kenapa metode ini disebut dengan “extreme.” Sebab, untuk mencapai tujuan tersebut, tim harus bekerja dengan extra keras dan dipaksa keluar dari zona nyaman.
 <p>berikut penjelasan proses XP yang harus Anda jalankan:</p>
-<p><li>Planning  — tim developer dan konsumen bertemu untuk merencanakan apa yang akan dikerjakan di setiap iterasinya.
-Designing — mulai mendesain bentuk dasar software yang sederhana.  
-Coding — dimulainya proses coding secara intensif oleh tim. Di sini, anggota tim juga saling me-review coding dari anggota tim lainnya.
-Testing — mengetes software berulang kali apakah berfungsi dengan baik (unit tests) dan sesuai kebutuhan konsumen (acceptance tests)
-Listening — berdiskusi dan mendengarkan feedback dari konsumen. Maka dari itu, konsumen harus selalu tersedia on-site dalam XP.</li></p>
+<p><li>Planning  — tim developer dan konsumen bertemu untuk merencanakan apa yang akan dikerjakan di setiap iterasinya.</li>
+<li>Designing — mulai mendesain bentuk dasar software yang sederhana.</li>  
+<li>Coding — dimulainya proses coding secara intensif oleh tim. Di sini, anggota tim juga saling me-review coding dari anggota tim lainnya.</li>
+<li>Testing — mengetes software berulang kali apakah berfungsi dengan baik (unit tests) dan sesuai kebutuhan konsumen (acceptance tests)</li>
+<li>Listening — berdiskusi dan mendengarkan feedback dari konsumen. Maka dari itu, konsumen harus selalu tersedia on-site dalam XP.</li></p>
