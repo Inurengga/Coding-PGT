@@ -1,37 +1,37 @@
-CALL
-@echo OFF
-call C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\ping.bat
+<p>CALL</p>
+<p>@echo OFF
+call C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\ping.bat</p>
 
-CHKDSK
-@echo OFF
-CHKDSK
+<p>CHKDSK</p>
+<p>@echo OFF
+CHKDSK</p>
 
-CHOICE
-@echo OFF
+<p>CHOICE</p>
+<p>@echo OFF
 ECHO You want coffee?
 ECHO Enter Y for yes
 ECHO Enter N for no
-CHOICE /c YN /m "Yes or No"
+CHOICE /c YN /m "Yes or No"</p>
 
-CLS
-@echo OFF
-CLS
+<p>CLS</p>
+<p>@echo OFF
+CLS</p>
 
-CMD
-@echo OFF
-CMD
+<p>CMD</p>
+<p>@echo OFF
+CMD</p>
 
-COMP
-@echo OFF
+<p>COMP</p>
+<p>@echo OFF
 COMP "C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\call.bat" 
-"C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\help.bat"
+"C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\help.bat"</p>
 
-DATE
-@echo OFF
-echo %DATE%
+<p>DATE</p>
+<p>@echo OFF
+echo %DATE%</p>
 
-DEL
-@echo OFF
+<p>DEL</p>
+<p>@echo OFF
 :: To delete a single file test.txt
 DEL C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\test.txt"
 
@@ -39,10 +39,10 @@ DEL C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\test.tx
 DEL /p/s D:\*.txt
 
 :: Remove \p to delete without confirmation
-DEL /s D:\*.txt
+DEL /s D:\*.txt</p>
 
-DIR
-@echo OFF
+<p>DIR</p>
+<p>@echo OFF
 :: To list all the contents  of current directory
 DIR
 
@@ -50,49 +50,49 @@ DIR
 DIR /ah
 
 :: To list all files with .php extensions
-DIR *.php
+DIR *.php</p>
 
-DRIVERQUERY
-@echo OFF
-DRIVERQUERY
+<p>DRIVERQUERY</p>
+<p>@echo OFF
+DRIVERQUERY</p>
 
-DXDIAG
-@echo OFF
-dxdiag
+<p>DXDIAG</p>
+<p>@echo OFF
+dxdiag</p>
 
-HELP
-@echo OFF
-HELP
+<p>HELP</p>
+<p>@echo OFF
+HELP</p>
 
-IPCONFIG
-@echo OFF
-IPCONFIG
+<p>IPCONFIG</p>
+<p>@echo OFF
+IPCONFIG</p>
 
-MD
-@echo OFF
-MD C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\coba
+<p>MD</p>
+<p>@echo OFF
+MD C:\Coding-PGT\kemampuan-dasar\kemampuan-dasar-1\latihan\shellscripts\coba </p>
 
-PAUSE
-@echo OFF
+<p>PAUSE</p>
+<p>@echo OFF
 ECHO hiii
-pause
+pause</p>
 
-PING
-@echo OFF
-PING 8.8.8.8
+<p>PING</p>
+<p>@echo OFF
+PING 8.8.8.8</p>
 
-START
-@echo OFF
-START mspaint.exe
+<p>START</p>
+<p>@echo OFF
+START mspaint.exe</p>
 
-SYSTEMINFO
-@echo OFF
-SYSTEMINFO
+<p>SYSTEMINFO</p>
+<p>@echo OFF
+SYSTEMINFO</p>
 
-TIME
-@echo OFF
-ECHO %TIME%
+<p>TIME</p>
+<p>@echo OFF
+ECHO %TIME%</p>
 
-VER
-@echo OFF
-VER
+<p>VER</p>
+<p>@echo OFF
+VER</p>
