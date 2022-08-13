@@ -1,12 +1,13 @@
 <p> Coding-PGT </p>
-<p> kemampuan-dasar </p>
-	<p> kemampuan-dasar-1 </p>
-		<p> kasus </p>
-			<p> file-ren.bat </p>
-			<p> file-ren.ps1 </p>
-		<p> latihan </p>
-			<p> shellscripts </p>
-				<p> call.bat </p>
+<tr><td>
+<p> kemampuan-dasar </p></td></tr>
+	<tr><td><p> kemampuan-dasar-1 </p></td></tr>
+		<tr><td><p> kasus </p></td></tr>
+			<tr><td><p> file-ren.bat </p>
+			<p> file-ren.ps1 </p></td></tr>
+		<tr></td><p> latihan </p></td></tr>
+			<tr><td><p> shellscripts </p></td></td>
+				<tr><td><p> call.bat </p>
 				<p> chkdsk.bat </p>
 				<p> choice.bat </p>
 				<p> cls.bat </p>
@@ -25,11 +26,11 @@
 				<p> start.bat </p>
 				<p> systeminfo.bat </p>
 				<p> time.bat </p>
-				<p> ver.bat </p>
-		<p> cmdline.txt </p>
-	<p> kemampuan-dasar-2 </p>
-		<p> praktik-1.md
+				<p> ver.bat </p></td></tr>
+		<tr><td><p> cmdline.txt </p></td></tr>
+	<tr><td><p> kemampuan-dasar-2 </p></td></tr>
+		<tr><td><p> praktik-1.md
 		<p> praktik-2.md
-		<p> README.md
-	<p> wawasan </p>
-		<p> README.md
+		<p> README.md</td></tr>
+	<tr><td><p> wawasan </p></td></tr>
+		<tr><td><p> README.md</p></td></tr>
