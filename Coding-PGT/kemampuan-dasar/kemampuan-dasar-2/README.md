@@ -1,8 +1,35 @@
-Seorang insinyur perangkat lunak adalah orang yang menerapkan prinsip-prinsip 
-rekayasa perangkat lunak untuk merancang, mengembangkan, memelihara, menguji, dan mengevaluasi perangkat lunak komputer. 
-Istilah programmer kadang-kadang digunakan sebagai sinonim, tetapi mungkin juga kurang memiliki konotasi pendidikan atau keterampilan teknik.
-
-Teknik rekayasa digunakan untuk menginformasikan[klarifikasi diperlukan] proses pengembangan perangkat lunak yang melibatkan definisi, 
-implementasi, penilaian, pengukuran, manajemen, perubahan, dan peningkatan proses siklus hidup perangkat lunak itu sendiri. Ini sangat 
-menggunakan manajemen konfigurasi perangkat lunak [1] [4] yang secara sistematis mengendalikan perubahan pada konfigurasi, dan menjaga 
-integritas dan ketertelusuran konfigurasi dan kode sepanjang siklus hidup sistem. Proses modern menggunakan versi perangkat lunak.
+<p> Coding-PGT </p>
+<p> kemampuan-dasar </p>
+	<p> kemampuan-dasar-1 </p>
+		<p> kasus </p>
+			<p> file-ren.bat </p>
+			<p> file-ren.ps1 </p>
+		<p> latihan </p>
+			<p> shellscripts </p>
+				<p> call.bat </p>
+				<p> chkdsk.bat </p>
+				<p> choice.bat </p>
+				<p> cls.bat </p>
+				<p> cmd.bat </p>
+				<p> comp.bat </p>
+				<p> date.bat </p>
+				<p> del.bat </p>
+				<p> dir.bat </p>
+				<p> driverquery.bat </p>
+				<p> dxdiag.bat </p>
+				<p> help.bat </p>
+				<p> ipconfig.bat </p>
+				<p> md.bat </p>
+				<p> pause.bat </p>
+				<p> ping.bat </p>
+				<p> start.bat </p>
+				<p> systeminfo.bat </p>
+				<p> time.bat </p>
+				<p> ver.bat </p>
+		<p> cmdline.txt </p>
+	<p> kemampuan-dasar-2 </p>
+		<p> praktik-1.md
+		<p> praktik-2.md
+		<p> README.md
+	<p> wawasan </p>
+		<p> README.md
