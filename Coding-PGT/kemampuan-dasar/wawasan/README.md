@@ -120,7 +120,7 @@ Langkah-langkah tersebut adalah:
 <p>Scrum adalah kerangka kerja untuk manajemen proyek, dengan penekanan awal pada pengembangan perangkat lunak , meskipun telah digunakan di bidang lain termasuk penelitian, penjualan, pemasaran, dan teknologi canggih .</p>
 <p>Scrum Methodology</p>
 <p>Scrum adalah metode agile yang berfokus pada pengembangan software kompleks. Pengerjaan software pada Scrum dibagi menjadi beberapa proses kecil yang disebut dengan sprints. Dalam satu sprint, biasanya Anda akan berfokus menyelesaikan satu fitur tertentu.
-<li>- Product Owner - bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.</li>
+<li>Product Owner - bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.</li>
 <li> Scrum Master - bertugas memfasilitasi dan memastikan bahwa tim sudah paham dengan proses Scrum. Selain itu, ia juga akan berkoordinasi dengan Product Owner agar bisa memaksimalkan hasil produk dan ROI (Return of Investment).</li>
 <li> Development Team - sekumpulan orang yang memiliki skill tertentu untuk menjalankan project. Misalnya, programmer, designer, writer, dan sebagainya.</li></p>
 
