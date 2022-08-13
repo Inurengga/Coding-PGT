@@ -106,7 +106,7 @@ Langkah-langkah tersebut adalah:
 - Deployment
 - Pemeliharaan perangkat lunak</p>
 <p>Agile software development principles</p>
-<p>- Kepuasan pelanggan dengan pengiriman perangkat lunak yang berharga secara dini dan berkelanjutan.
+<p>- Keputusan pelanggan dengan pengiriman perangkat lunak yang berharga secara dini dan berkelanjutan.
 - Menyambut perubahan persyaratan, bahkan dalam pengembangan yang terlambat.
 - Berikan perangkat lunak yang berfungsi sesering mungkin (berminggu-minggu, bukan berbulan-bulan).
 - Kerja sama yang erat dan setiap hari antara pelaku bisnis dan pengembang.
@@ -115,40 +115,30 @@ Langkah-langkah tersebut adalah:
 - Perangkat lunak yang berfungsi adalah ukuran utama kemajuan.
 - Pembangunan berkelanjutan, mampu mempertahankan kecepatan yang konstan.
 - Perhatian terus menerus terhadap keunggulan teknis dan desain yang baik.
-- Kesederhanaan—seni memaksimalkan jumlah pekerjaan yang tidak dilakukan—sangat penting.
-- Arsitektur , persyaratan, dan desain terbaik muncul dari tim yang mengatur diri sendiri.
+- Kesederhanaan seni memaksimalkan jumlah pekerjaan yang tidak dilakukan—sangat penting.
+- Arsitektur, persyaratan, dan desain terbaik muncul dari tim yang mengatur diri sendiri.
 - Secara teratur, tim merefleksikan bagaimana menjadi lebih efektif, dan menyesuaikannya.</p>
 
 
 <p>SCRUM</p>
 <p>Scrum adalah kerangka kerja untuk manajemen proyek, dengan penekanan awal pada pengembangan perangkat lunak , meskipun telah digunakan di bidang lain termasuk penelitian, penjualan, pemasaran, dan teknologi canggih .</p>
 <p>Scrum Methodology</p>
-<p>Scrum adalah metode agile yang berfokus pada pengembangan software kompleks. Pengerjaan software pada Scrum dibagi menjadi beberapa proses kecil yang disebut dengan sprints. Dalam satu sprint, biasanya Anda akan berfokus menyelesaikan satu fitur tertentu.</p>
-<p>Product Owner — bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.
-Scrum Master — bertugas memfasilitasi dan memastikan bahwa tim sudah paham dengan proses Scrum. Selain itu, ia juga akan berkoordinasi dengan Product Owner agar bisa memaksimalkan hasil produk dan ROI (Return of Investment).
-Development Team — sekumpulan orang yang memiliki skill tertentu untuk menjalankan project. Misalnya, programmer, designer, writer, dan sebagainya.</p>
-<p>Limitations</p>
-<p>Manfaat scrum mungkin lebih sulit dicapai dengan:</p>
-<p>Tim yang anggotanya tersebar secara geografis atau paruh waktu : Dalam scrum, pengembang harus memiliki interaksi yang erat dan berkelanjutan, idealnya bekerja bersama di ruang yang sama hampir sepanjang waktu. Sementara perbaikan teknologi baru-baru ini telah mengurangi dampak dari hambatan ini (misalnya, mampu berkolaborasi di papan tulis digital), manifesto Agile menegaskan bahwa komunikasi terbaik adalah tatap muka.
-Tim yang anggotanya memiliki keterampilan yang sangat khusus : Dalam scrum, pengembang harus memiliki keterampilan berbentuk T , yang memungkinkan mereka mengerjakan tugas di luar spesialisasi mereka. Hal ini dapat didorong oleh kepemimpinan Scrum yang baik. Sementara anggota tim dengan keterampilan yang sangat spesifik dapat dan memang berkontribusi dengan baik, mereka harus didorong untuk belajar lebih banyak dan berkolaborasi dengan disiplin lain.
-Produk dengan banyak ketergantungan eksternal : Dalam scrum, membagi pengembangan produk menjadi sprint pendek membutuhkan perencanaan yang cermat; ketergantungan eksternal, seperti pengujian penerimaan pengguna atau koordinasi dengan tim lain, dapat menyebabkan penundaan dan kegagalan sprint individu.
-Produk yang matang atau lama atau dengan kontrol kualitas yang diatur : Dalam scrum, peningkatan produk harus sepenuhnya dikembangkan dan diuji dalam satu sprint; produk yang membutuhkan pengujian regresi atau pengujian keamanan dalam jumlah besar (misalnya, peralatan medis atau kontrol kendaraan) untuk setiap pelepasan kurang cocok untuk sprint pendek daripada untuk pelepasan air terjun yang lebih panjang.</p>
+<p>Scrum adalah metode agile yang berfokus pada pengembangan software kompleks. Pengerjaan software pada Scrum dibagi menjadi beberapa proses kecil yang disebut dengan sprints. Dalam satu sprint, biasanya Anda akan berfokus menyelesaikan satu fitur tertentu.
+- Product Owner > bertugas memaksimalkan nilai bisnis dari software yang dikembangkan. Plus, ia juga memastikan bahwa list fitur produk telah disusun dengan baik.
+- Scrum Master > bertugas memfasilitasi dan memastikan bahwa tim sudah paham dengan proses Scrum. Selain itu, ia juga akan berkoordinasi dengan Product Owner agar bisa memaksimalkan hasil produk dan ROI (Return of Investment).
+- Development Team > sekumpulan orang yang memiliki skill tertentu untuk menjalankan project. Misalnya, programmer, designer, writer, dan sebagainya.</p>
+
 <p>Scrum values</p>
-<p>Scrum adalah pendekatan empiris yang didorong oleh umpan balik yang, seperti semua kontrol proses empiris, didukung oleh tiga pilar transparansi, inspeksi, dan adaptasi. Semua pekerjaan dalam kerangka kerja scrum harus terlihat oleh mereka yang bertanggung jawab atas hasil: proses, alur kerja, kemajuan, dll. Untuk membuat hal-hal ini terlihat, tim scrum perlu sering memeriksa produk yang sedang dikembangkan dan seberapa baik tim tersebut bekerja. Dengan inspeksi yang sering, tim dapat melihat ketika pekerjaan mereka menyimpang di luar batas yang dapat diterima dan menyesuaikan proses mereka atau produk yang sedang dikembangkan.
+<p>adalah pendekatan empiris yang didorong oleh umpan balik yang, seperti semua kontrol proses empiris, didukung oleh tiga pilar transparansi, inspeksi, dan adaptasi. Semua pekerjaan dalam kerangka kerja scrum harus terlihat oleh mereka yang bertanggung jawab atas hasil: proses, alur kerja, kemajuan, dll. Untuk membuat hal-hal ini terlihat, tim scrum perlu sering memeriksa produk yang sedang dikembangkan dan seberapa baik tim tersebut bekerja. Dengan inspeksi yang sering, tim dapat melihat ketika pekerjaan mereka menyimpang di luar batas yang dapat diterima dan menyesuaikan proses mereka atau produk yang sedang dikembangkan.
 Ketiga pilar ini membutuhkan kepercayaan dan keterbukaan dalam tim, yang memungkinkan lima nilai scrum berikut:</p>
-<p>Komitmen: Anggota tim secara individu berkomitmen untuk mencapai tujuan tim mereka, setiap sprint .
-Keberanian: Anggota tim tahu bahwa mereka memiliki keberanian untuk bekerja melalui konflik dan tantangan bersama sehingga mereka dapat melakukan hal yang benar.
-Fokus: Anggota tim fokus secara eksklusif pada tujuan tim mereka dan sprint backlog; seharusnya tidak ada pekerjaan yang dilakukan selain melalui backlog mereka.
-Keterbukaan: Anggota tim dan pemangku kepentingan mereka setuju untuk transparan tentang pekerjaan mereka dan setiap tantangan yang mereka hadapi.
-Rasa Hormat: Anggota tim saling menghormati untuk secara teknis mampu dan bekerja dengan niat baik.</p>
 
 
 <p>Extreme programming(XP)</p>
 <p>adalah metodologi pengembangan perangkat lunak yang dimaksudkan untuk meningkatkan kualitas perangkat lunak dan responsif terhadap perubahan kebutuhan pelanggan.</p>
 <p>Extreme Programming (XP) adalah metode agile yang lebih berfokus ke aspek teknis pengembangan. Tujuannya, agar software yang dihasilkan mempunyai kualitas tinggi, sehingga kemampuan tim pengembangnya juga meningkat drastis. 
 Itulah kenapa metode ini disebut dengan “extreme.” Sebab, untuk mencapai tujuan tersebut, tim harus bekerja dengan extra keras dan dipaksa keluar dari zona nyaman.
-berikut penjelasan proses XP yang harus Anda jalankan:
-Planning  — tim developer dan konsumen bertemu untuk merencanakan apa yang akan dikerjakan di setiap iterasinya.
+<p>berikut penjelasan proses XP yang harus Anda jalankan:</p>
+<p>Planning  — tim developer dan konsumen bertemu untuk merencanakan apa yang akan dikerjakan di setiap iterasinya.
 Designing — mulai mendesain bentuk dasar software yang sederhana.  
 Coding — dimulainya proses coding secara intensif oleh tim. Di sini, anggota tim juga saling me-review coding dari anggota tim lainnya.
 Testing — mengetes software berulang kali apakah berfungsi dengan baik (unit tests) dan sesuai kebutuhan konsumen (acceptance tests)
